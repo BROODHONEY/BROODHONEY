@@ -7,7 +7,7 @@
 <h2>🧑‍💻 About Me</h2>
 
 <ul>
-  <li>💻 <strong>Autodidact Programmer:</strong> I have experience in various programming languages including <strong>C++</strong>, <strong>C#</strong>, <strong>Java</strong>, <strong>SQL</strong>, and <strong>Python</strong>.</li>
+  <li>💻 <strong>Autodidact Programmer:</strong> I have experience in various programming languages including <strong>C++</strong>, <strong>C#</strong>, <strong>SQL</strong>, and <strong>Python</strong>.</li>
   <li>🎮 <strong>Game Developer Enthusiast:</strong> Passionate about combining technical expertise and creativity to design immersive games.</li>
   <li>🤖 <strong>AI & Machine Learning Explorer:</strong> Currently diving deeper into <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Artificial Intelligence</strong> to create impactful systems.</li>
   <li>🎨 <strong>Creative Thinker:</strong> My background in <strong>3D art and animation</strong> helps me approach challenges with both technical and artistic perspectives.</li>
