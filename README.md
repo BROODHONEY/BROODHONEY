@@ -68,15 +68,6 @@
 
 ---
 
-<h2>📈 GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BROODHONEY&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BROODHONEY&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
 <h2>✨ Fun Facts About Me</h2>
 
 <ul>
