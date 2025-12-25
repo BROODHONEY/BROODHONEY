@@ -1,5 +1,4 @@
 <h1>👋 Hi, I'm Roshan</h1>
----
 
 I like studying and building Deep Neural Networks, I love Researching about AGI.
 
