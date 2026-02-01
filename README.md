@@ -1,6 +1,10 @@
 <h1>Hi, I'm Roshan</h1>
 
-I like studying and building Deep Neural Networks. I love Researching about AGI.
+Jack of all trades, Master of None.
+
+I like studying and building Deep Neural Networks. I love Researching about AGI. <br>
+
+Explored: Video Game Development & Design, 3D animation, Web Development, Software Development, SQL Developer, Artificial Intelligence & Machine Learning (Currently learning)
 
 <ul>
   <li><strong>Portfolio:</strong> <a href="https://roshanpadmanabhan.onrender.com">roshanpadmanabhan.onrender.com</a></li>
