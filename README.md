@@ -1,10 +1,10 @@
 <h1>Hi, I'm Roshan</h1>
 
-Jack of all trades, Master of None.
+<i>Jack of all trades, Master of None.</i>
 
 I like studying and building Deep Neural Networks. I love Researching about AGI. <br>
 
-Explored: Video Game Development & Design, 3D animation, Web Development, Software Development, SQL Developer, Artificial Intelligence & Machine Learning (Currently learning)
+<b>Explored</b>: Video Game Development & Design, 3D animation, Web Development, Software Development, SQL Developer, Artificial Intelligence & Machine Learning (Currently learning)
 
 <ul>
   <li><strong>Portfolio:</strong> <a href="https://roshanpadmanabhan.onrender.com">roshanpadmanabhan.onrender.com</a></li>
